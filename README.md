@@ -1,2 +1,2 @@
 # PRO-C22
-estructura alámbrica para c22 
+Plantilla para profesor C21V2 Act 1 
